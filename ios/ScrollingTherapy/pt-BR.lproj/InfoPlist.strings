@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  ScrollingTherapy
+
+  Created by Guilherme Inkotte on 19/04/23.
+  
+*/
+"NSCameraUsageDescription" = "Scrolling Therapy precisa acessar sua câmera para identificar os sinais faciais e controlar a navegação. Não armazenamos nenhuma imagem capturada pela câmera.";

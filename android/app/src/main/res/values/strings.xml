@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Scrolling Therapy</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">hidden</string>
+</resources>
